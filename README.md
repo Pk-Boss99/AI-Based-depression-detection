@@ -34,8 +34,8 @@ To explore how deep learning can predict depression severity from diverse input 
 ## How To Run the Project
 
 # Step 1: Clone the Repository
-git clone https://github.com/yourusername/depression-detection-tf-opencv.git
-cd depression-detection-tf-opencv
+git clone https://github.com/Pk-Boss99/AI-Based-depression-detection.git
+cd AI-Based-depression-detection
 
 # Step 2: Create a Virtual Environment
 python -m venv venv
@@ -48,8 +48,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 # Project Srtructure 
-
-   depression_detection/
+depression_detection/
 │
 ├── app.py                    # Streamlit frontend
 ├── requirements.txt          # Python dependencies

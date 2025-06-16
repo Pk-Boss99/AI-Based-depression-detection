@@ -85,7 +85,7 @@ This project is licensed under the MIT License.
 Author
 Pushkar Kumar
 AI/ML Research Enthusiast
-Email: your-email@example.com
+Email: hacker.boss.pk@gmail.com
 
 Acknowledgments
 FER2013 Dataset
